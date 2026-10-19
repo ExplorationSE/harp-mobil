@@ -57,8 +57,8 @@ Ihr Windows-PC:  cloudflared.exe  ──►  Harp-Mobil-Server  http://127.0.0.1
 ## 3. Paket entpacken
 
 1. Speichern Sie `harp-v1.zip` z. B. im Ordner „Downloads“.
-2. Rechtsklick → **„Alle extrahieren…“** → Ziel z. B. `C:\HarpMobile` (kurzer Pfad ohne Sonderzeichen empfohlen).
-3. Danach gibt es den Ordner `C:\HarpMobile\v1` mit u. a. `install_windows.bat`, `start_online.bat`,
+2. Rechtsklick → **„Alle extrahieren…“** → Ziel z. B. `C:\HarpMobil` (kurzer Pfad ohne Sonderzeichen empfohlen).
+3. Danach gibt es den Ordner `C:\HarpMobil\v1` mit u. a. `install_windows.bat`, `start_online.bat`,
    `stop_online.bat`, `start_server.bat` und `README.md`.
 
 > Tipp: Falls Windows beim Öffnen der ZIP-Datei warnt, können Sie vor dem Entpacken Rechtsklick auf die ZIP →

@@ -16,6 +16,8 @@ Umbenennung, keine Funktionsänderung.
   und neu hinzufügen, damit der neue Name erscheint.
 - Anleitung-PDF neu erzeugt, jetzt mit `tools/make_anleitung_pdf.py` (wie in GX); Screenshot des Infobereichs
   im README aktualisiert. Kasten „… ist ONLINE“ im Startfenster etwas breiter, damit der längere Name passt.
+- Installationsordner in Anleitung und README: `C:\HarpMobil\v1` (bisher `C:\HarpMobile\v1`); bestehende
+  Installationen funktionieren an ihrem Ort unverändert weiter.
 - Demodateien unverändert.
 
 ## 1.0.7 – 17.10.2026
