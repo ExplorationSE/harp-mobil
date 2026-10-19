@@ -1,6 +1,6 @@
-# ExSE Harp Mobil
+# ExplorationSE Harp Mobil
 
-[![Tests](https://github.com/ExplorationSE/exse-harp-mobil/actions/workflows/tests.yml/badge.svg)](https://github.com/ExplorationSE/exse-harp-mobil/actions/workflows/tests.yml)
+[![Tests](https://github.com/ExplorationSE/harp-mobil/actions/workflows/tests.yml/badge.svg)](https://github.com/ExplorationSE/harp-mobil/actions/workflows/tests.yml)
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
 
 Live-Histogramme, Korrelationen und Zählraten für eine PicoQuant **HydraHarp 500** auf dem Smartphone – mit
@@ -20,7 +20,7 @@ Steuerung im Browser (PWA); derzeit **Simulation aus PTU-Dateien, noch ohne Ger�
 >   HydraHarp, PicoQuant, snAPI und SymPhoTime sind Marken ihrer jeweiligen Inhaber.
 > - **Ohne Gewährleistung** (MIT-Lizenz); nicht für sicherheitskritische Anwendungen bestimmt.
 
-**Download:** [aktuelle Version (Programm, Demodaten, Anleitung als PDF)](https://github.com/ExplorationSE/exse-harp-mobil/releases/latest)
+**Download:** [aktuelle Version (Programm, Demodaten, Anleitung als PDF)](https://github.com/ExplorationSE/harp-mobil/releases/latest)
 · Änderungen: [`CHANGELOG.md`](CHANGELOG.md) · Lizenz: [MIT](#13-lizenz)
 
 <p>

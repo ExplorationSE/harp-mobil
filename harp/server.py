@@ -441,7 +441,7 @@ def create_app(cfg: Config | None = None) -> FastAPI:
         await svc.stop()
         svc.source.close()
 
-    app = FastAPI(title="ExSE Harp Mobil", version=__version__, lifespan=lifespan)
+    app = FastAPI(title="ExplorationSE Harp Mobil", version=__version__, lifespan=lifespan)
     app.state.svc = svc
 
     auth = Auth(cfg.token)
@@ -534,7 +534,7 @@ def create_app(cfg: Config | None = None) -> FastAPI:
 
     @app.get("/api/health")
     async def health():
-        return {"ok": True, "name": "ExSE Harp Mobil", "version": __version__}
+        return {"ok": True, "name": "ExplorationSE Harp Mobil", "version": __version__}
 
     @app.get("/api/status")
     async def api_status(token: str | None = Query(None)):
